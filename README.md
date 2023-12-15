@@ -1,2 +1,6 @@
-# olozhikas_Minecraft_Scripts_for_C4D
-olozhika's personal script folder for Minecraft-themed projects in Cinema 4D (also bridging C4D to minecraft). Comments are welcomed.. 
+# Minecraft Scripts for C4D
+
+## 1. mc_tex_prep.py
+
+The script fixs texture paths and interpolations (from 'MIPS' to 'none'). 
+Run it after importing your Minecraft .obj map.
