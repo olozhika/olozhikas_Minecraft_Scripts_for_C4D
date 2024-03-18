@@ -19,3 +19,14 @@ Run it after importing your Minecraft .obj map.
 ### fix_rs_texture.py
 
 The script fixs the filter methods of all your Redshift textures to 'none'. 
+
+# Some CMD scripts
+Some cmd scripts that may also help in inhancing your workflow of minecraft wallpapers.
+
+### rename2png.py
+
+The script add '.png' to all the files in a folder
+
+it can be used to extract skins from servers in your `\.minecraft\assets\skins`
+
+use it in cmd: `python rename2png.py yourfolder`
