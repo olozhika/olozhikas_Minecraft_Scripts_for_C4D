@@ -20,6 +20,14 @@ Run it after importing your Minecraft .obj map.
 
 The script fixs the filter methods of all your Redshift textures to 'none'. 
 
+### rs_sss_setting.py
+
+The script changes the sub-surface `scatter scale` and `phase` of all selected redshift materials to the values you want.
+
+The values are 1.2 and 0.75 by default. 
+
+Change the values at the line `change_sss_settings(mat, 1.2, 0.75) #CHANGE THE VALUES HERE!!! :D`
+
 # Some CMD scripts
 Some cmd scripts that may also help in inhancing your workflow of minecraft wallpapers.
 
